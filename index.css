@@ -1,0 +1,50 @@
+.facebook-login-card{
+    align-content: ;
+    background-color: aliceblue;
+    align-content: flex-start;
+}
+.facebook{
+    color: blue;
+    font-family:  sans-serif;
+}
+.para1{
+    color: black;
+    font-family:Arial;
+}
+.login-card{
+    align-content: end;
+    background-color: aliceblue;
+}
+.email{
+    color: darkslategray;
+     font-family:  sans-serif;
+}
+.password{
+    color: darkslategrey; 
+    font-family:  sans-serif;
+}
+.log-in{
+    color: white;
+    font-family:  sans-serif;
+    background-color: rgb(0, 0, 241);
+    border-top-right-radius:2px ;
+    border-bottom-left-radius:2px ;
+    border-bottom-right-radius:2px ;
+    border-top-left-radius:2px ;
+}
+.fp{
+    color:blue;
+    background-color: white;
+    border-top-right-radius:2px ;
+    border-bottom-left-radius:2px ;
+    border-bottom-right-radius:2px ;
+    border-top-left-radius:2px ;
+}
+.ca{
+    color:white;
+    background-color: green;
+    border-top-right-radius:2px ;
+    border-bottom-left-radius:2px ;
+    border-bottom-right-radius:2px ;
+    border-top-left-radius:2px ;
+}
